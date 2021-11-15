@@ -1,0 +1,27 @@
+{
+  "name": "@nexssp/project_vue3",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "hot": "mix watch --hot",
+    "dev": "mix",
+    "production": "mix --production"
+  },
+  "keywords": [],
+  "author": "Marcin Polak mapoart@gmail.com",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.37",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
+    "vue-loader": "^16.8.3"
+  },
+  "dependencies": {
+    "vue": "^3.2.22",
+    "vue-router": "^4.0.12"
+  }
+}
