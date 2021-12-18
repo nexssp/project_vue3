@@ -16,12 +16,12 @@
     "browser-sync-webpack-plugin": "^2.3.0",
     "cross-env": "^7.0.3",
     "laravel-mix": "^6.0.37",
-    "sass": "^1.43.4",
-    "sass-loader": "^12.3.0",
-    "vue-loader": "^16.8.3"
+    "sass": "^1.45.0",
+    "sass-loader": "^12.4.0",
+    "vue-loader": "^17.0.0"
   },
   "dependencies": {
-    "vue": "^3.2.22",
+    "vue": "^3.2.26",
     "vue-router": "^4.0.12"
   }
 }
